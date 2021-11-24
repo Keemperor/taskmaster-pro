@@ -275,10 +275,7 @@ var auditTask = function(taskEl) {
     $(taskEl).addClass("list-group-item-warning");
   }
 
-<<<<<<< HEAD
-=======
   console.log(taskEl);
->>>>>>> feature/touch-ups
 };
 
 $("#trash").droppable({
